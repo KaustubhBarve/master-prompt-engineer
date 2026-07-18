@@ -5,7 +5,7 @@
 ### A Claude Agent Skill that turns a one-line idea into a production-grade, platform-calibrated prompt
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Skill Version](https://img.shields.io/badge/skill%20version-3.5.0-blue)](./master-prompt-engineer/SKILL.md)
+[![Skill Version](https://img.shields.io/badge/skill%20version-3.4.0-blue)](./master-prompt-engineer/SKILL.md)
 [![Format](https://img.shields.io/badge/format-Agent%20Skill%20(SKILL.md)-6f42c1)](https://agentskills.io)
 [![Reference Library](https://img.shields.io/badge/reference%20files-3%2C200%2B%20lines-orange)](./master-prompt-engineer/references)
 
