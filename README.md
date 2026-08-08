@@ -232,7 +232,7 @@ Ten rules govern every prompt this skill produces:
 
 ## Versioning
 
-The skill is on **v3.6.0**. Every version bump is documented inside `SKILL.md`'s YAML frontmatter, including the reasoning behind corrections when an earlier claim didn't hold up — see the [changelog](./master-prompt-engineer/SKILL.md) at the top of that file for the full history back to v1.0.0.
+The skill is on **v3.6.0**. Every version bump is documented inside `SKILL.md`'s YAML frontmatter, including the reasoning behind corrections when an earlier claim didn't hold up — see the [changelog](https://github.com/KaustubhBarve/master-prompt-engineer/blob/main/SKILL.md) at the top of that file for the full history back to v1.0.0.
 
 ---
 
