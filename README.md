@@ -59,10 +59,10 @@ This repo is a **Claude Agent Skill** — a folder with a `SKILL.md` file that C
 
 ```bash
 # Personal — available in every project
-git clone https://github.com/<your-username>/master-prompt-engineer.git ~/.claude/skills/master-prompt-engineer
+git clone https://github.com/KaustubhBarve/master-prompt-engineer.git ~/.claude/skills/master-prompt-engineer
 
 # Project-local — available only in this repo
-git clone https://github.com/<your-username>/master-prompt-engineer.git .claude/skills/master-prompt-engineer
+git clone https://github.com/KaustubhBarve/master-prompt-engineer.git .claude/skills/master-prompt-engineer
 ```
 
 Claude Code picks up the skill on your next session. No further setup needed.
@@ -73,9 +73,8 @@ Claude Code picks up the skill on your next session. No further setup needed.
 <summary><b>claude.ai</b> (custom skill upload)</summary>
 
 1. Download this repo as a ZIP.
-2. Re-zip the `master-prompt-engineer/` folder so it sits at the **root** of the archive (not nested inside another folder).
-3. **Settings → Capabilities → Skills → Upload skill**, and select the ZIP.
-4. The skill is now available in your conversations on that account.
+2. **Settings → Capabilities → Skills → Upload skill**, and select the ZIP.
+3. The skill is now available in your conversations on that account.
 
 </details>
 
@@ -200,8 +199,7 @@ Where an earlier version of this skill got a citation wrong — including, at on
 master-prompt-engineer/
 ├── LICENSE
 ├── README.md
-└── master-prompt-engineer/
-    ├── SKILL.md                          ← the skill itself (frontmatter + operating instructions)
+└── SKILL.md/                             ← the skill itself (frontmatter + operating instructions)                         
     └── references/
         ├── techniques.md                 ← technique library + research foundations
         ├── frameworks.md                 ← named prompt frameworks, worked examples
